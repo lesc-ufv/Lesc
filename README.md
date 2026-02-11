@@ -5,4 +5,8 @@ Laboratório de Engenharia de Sistemas da Computação LESC
 
 # Recent Publications
 
+ ## [Journal Publications](https://github.com/lesc-ufv/Lesc/blob/main/publications.md)
+
+ ## [Conferentes]()
+ 
 # Projects
