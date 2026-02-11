@@ -9,4 +9,4 @@ Laboratório de Engenharia de Sistemas da Computação LESC
 
  ## [Conferences](https://github.com/lesc-ufv/Lesc/blob/main/conferences.md)
  
-# Projects
+# [Projects](https://github.com/lesc-ufv/Lesc/blob/main/projects.md)
