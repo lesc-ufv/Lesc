@@ -35,7 +35,7 @@
 
 **Université Savoie Mont Blanc (USMB)** Pietro Maris Ferreira 
 
-**TU Munich**: [Rboert Wille](https://www.cda.cit.tum.de/team/wille/) and [Marcel Walter](https://marcelwa.github.io/)
+**TU Munich**: [Robert Wille](https://www.cda.cit.tum.de/team/wille/) and [Marcel Walter](https://marcelwa.github.io/)
 
 **Universidade Federal de Minas Gerais, Brazil**: [Omar Paranaiba](https://scholar.google.com/citations?user=0IqBxoIAAAAJ&hl=en), [Michele Nogueira](https://scholar.google.com/citations?user=1CfmgaAAAAAJ&hl=en), [Luiz Vieira](https://scholar.google.com/citations?user=KGysOTEAAAAJ&hl=en), [Marcos Vieira](https://scholar.google.com/citations?user=2pp8xosAAAAJ&hl=en)
 
