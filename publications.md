@@ -8,33 +8,31 @@
 
 **COELHO, KRISTTOPHER K.; OKUYAMA, MAURÍCIO M.; NOGUEIRA, MICHELE; VIEIRA, ALEX B.; SILVA, EDELBERTO F.; NACIF, JOSE AUGUSTO M.** A New k-anonymity Method Based on Generalization First k-member Clustering for Healthcare Data. *IEEE Transactions on Dependable and Secure Computing*, v. 1, p. 1-12, 2025. **A1**, ISSN 1941-0018 **Impact Factor 7.5**
 
-**ALMEIDA, WAGNER; RAMOS, FABIO; NACIF, JOSÉ AUGUSTO; FERREIRA, RICARDO; BORGES, ALEX.** Leveraging edge-aware graph neural networks to predict node load in backbone networks. *Journal of Complex Networks*, v. 13, p. 1, 2025. **A2**, ISSN 2051-1329
+**ALMEIDA, WAGNER; RAMOS, FABIO; NACIF, JOSÉ AUGUSTO; FERREIRA, RICARDO; BORGES, ALEX.** Leveraging edge-aware graph neural networks to predict node load in backbone networks. *Journal of Complex Networks*, v. 13, p. 1, 2025. **A2**, ISSN 2051-1329 **Impact Factor 1.5**
 
 **FAGUNDES-JUNIOR, LEONARDO A. ; DE CARVALHO, KEVIN B. ; FERREIRA, RICARDO S. ; BRANDÃO, ALEXANDRE S.** . Machine Learning for Unmanned Aerial Vehicles Navigation: An Overview. SN Computer Science, v. 5, p. 1-15, 2024.ISSN 2661-8907  
 
 
 **LIMA, HELENA SANTIAGO ; OLIVEIRA, GUSTAVO FERREIRA VIEGAS DE ; FERREIRA, RICARDO DOS SANTOS ; CASTRO, ALEX GAZOLLA DE ; SILVA, LÍVIA CARNEIRO FIDÉLIS ; FERREIRA, LETÍCIA DE SOUZA ; OLIVEIRA, DIEGO ANICETO DOS SANTOS ; SILVA, LEONARDO FERREIRA DA ; KASUYA, MARIA CATARINA MEGUMI ; DE PAULA, SÉRGIO OLIVEIRA ; SILVA, CYNTHIA CANÊDO DA** . Machine learning-based soil quality assessment for enhancing environmental monitoring in iron ore mining-impacted ecosystems. JOURNAL OF ENVIRONMENTAL MANAGEMENT, v. 356, p. 120559, 2024. 
- A1, ISSN 0301-4797
+ A1, ISSN 0301-4797 **Impact Factor 8.9**
 
-**MARULANDA LOPEZ, JHON FABER ; DE BRITO NETO, WALTER BUENO ; DOS SANTOS FERREIRA, RICARDO**. Machine Learning Approach to Support Taxonomic Discrimination of Mayflies Species Based on Morphologic Data. NEOTROPICAL ENTOMOLOGY, v. 1, p. 1, 2024.
+**MARULANDA LOPEZ, JHON FABER ; DE BRITO NETO, WALTER BUENO ; DOS SANTOS FERREIRA, RICARDO**. Machine Learning Approach to Support Taxonomic Discrimination of Mayflies Species Based on Morphologic Data. NEOTROPICAL ENTOMOLOGY, v. 1, p. 1, 2024. **Impact Factor 1.7**
 
-**COELHO, KRISTTOPHER K.; TRISTÃO, EDUARDO T.; NOGUEIRA, MICHELE; VIEIRA, ALEX B.; NACIF, JOSÉ A.M.** Multimodal biometric authentication method by federated learning. *Biomedical Signal Processing and Control*, v. 85, p. 105022, 2023. **A1**, ISSN 1746-8094 · Web Citation: 27|35
+**COELHO, KRISTTOPHER K.; TRISTÃO, EDUARDO T.; NOGUEIRA, MICHELE; VIEIRA, ALEX B.; NACIF, JOSÉ A.M.** Multimodal biometric authentication method by federated learning. *Biomedical Signal Processing and Control*, v. 85, p. 105022, 2023. **A1**, ISSN 1746-8094 · Web Citation: 27|35 **Impact Factor 4.9**
 
-**COELHO, KRISTTOPHER K.; NOGUEIRA, MICHELE; VIEIRA, ALEX B.; SILVA, EDELBERTO F.; NACIF, JOSÉ AUGUSTO M.** A survey on federated learning for security and privacy in healthcare applications. *Computer Communications*, v. 207, p. 113-127, 2023. **A1**, ISSN 0140-3664 · Web Citation: 30|40
+**COELHO, KRISTTOPHER K.; NOGUEIRA, MICHELE; VIEIRA, ALEX B.; SILVA, EDELBERTO F.; NACIF, JOSÉ AUGUSTO M.** A survey on federated learning for security and privacy in healthcare applications. *Computer Communications*, v. 207, p. 113-127, 2023. **A1**, ISSN 0140-3664 · Web Citation: 30|40 **Impact Factor 4.3**
 
 **COELHO, KRISTTOPHER KAYO; NOGUEIRA, MICHELE; MARIM, MATEUS COUTINHO; SILVA, EDELBERTO FRANCO; VIEIRA, Alex Borges; NACIF, JOSE AUGUSTO M.** LORENA: Low memORy symmEtric-Key geNerAtion Method for Based on Group Cryptography Protocol Applied to the Internet of Healthcare Things. *IEEE Access*, v. 10, p. 12564-12579, 2022. **A3**, ISSN 2169-3536 · Web Citation: 11|14
 
-**OLIVEIRA, WESTERLEY C.; CANESCHE, MICHAEL; REIS, LUCAS; NACIF, JOSÉ AUGUSTO M.; FERREIRA, RICARDO S.** Heterogeneous reconfigurable architectures for machine learning dataflows. *Concurrency and Computation-Practice & Experience*, v. 1, p. 1, 2022. **A2**, ISSN 1532-0626 · Web Citation: 3|1
+**OLIVEIRA, WESTERLEY C.; CANESCHE, MICHAEL; REIS, LUCAS; NACIF, JOSÉ AUGUSTO M.; FERREIRA, RICARDO S.** Heterogeneous reconfigurable architectures for machine learning dataflows. *Concurrency and Computation-Practice & Experience*, v. 1, p. 1, 2022. **A2**, ISSN 1532-0626 · Web Citation: 3|1 **Impact Factor 1.5**
 
 ## Reconfigurable Architecture 
 
-**BRAGANÇA, LUCAS; CANESCHE, MICHAEL; PENHA, JERONIMO; CAMPOS, JOSUÉ; NACIF, JOSÉ AUGUSTO M.; FERREIRA, RICARDO S.** Fast flow cloud: A stream dataflow framework for cloud FPGA accelerator overlays at runtime. *Concurrency and Computation-Practice & Experience*, v. 1, p. 1, 2022. **A2**, ISSN 1532-0626 · Web Citation: 1|1
+**BRAGANÇA, LUCAS; CANESCHE, MICHAEL; PENHA, JERONIMO; CAMPOS, JOSUÉ; NACIF, JOSÉ AUGUSTO M.; FERREIRA, RICARDO S.** Fast flow cloud: A stream dataflow framework for cloud FPGA accelerator overlays at runtime. *Concurrency and Computation-Practice & Experience*, v. 1, p. 1, 2022. **A2**, ISSN 1532-0626 · **Impact Factor 1.5**
 
-**ALMEIDA, DANILO DAMIAO; BRAGANCA, LUCAS; TORRES, FRANK SILL; FERREIRA, RICARDO; NACIF, JOSE AUGUSTO M.** HAMBug: A Hybrid CPU-FPGA System to Detect Race Conditions. *IEEE Transactions on Circuits and Systems II-Express Briefs*, v. 68, p. 3158-3162, 2021. **A2**, ISSN 1549-7747
+**ALMEIDA, DANILO DAMIAO; BRAGANCA, LUCAS; TORRES, FRANK SILL; FERREIRA, RICARDO; NACIF, JOSE AUGUSTO M.** HAMBug: A Hybrid CPU-FPGA System to Detect Race Conditions. *IEEE Transactions on Circuits and Systems II-Express Briefs*, v. 68, p. 3158-3162, 2021. **A2**, ISSN 1549-7747**Impact Factor 3.6**
 
-**CANESCHE, M.; CARVALHO, W.; REIS, L.; OLIVEIRA, M.; MAGALHAES, S.; JAMIESON, P.; NACIF, JOSÉ A. M.; FERREIRA, R. S.** You Only Traverse Twice: A YOTT Placement, Routing, and Timing Approach for CGRAs. *ACM Transactions on Embedded Computing Systems*, v. 20, p. 1, 2021. **A3**, ISSN 1539-9087 · Web Citation: 4|7
-
-**PACÍFICO, RACYUS D. G.; SILVA, LUCAS B.; COELHO, GERFERSON R.; SILVA, PABLO G.; VIEIRA, ALEX B.; VIEIRA, MARCOS A. M.; CUNHA, ÍTALO F. S.; VIEIRA, LUIZ F. M.; NACIF, JOSÉ A. M.** BloomTime: space-efficient stateful tracking of time-dependent network performance metrics. *Telecommunication Systems*, v. 1, p. 1, 2020. **A4**, ISSN 1018-4864 · Web Citation: 3|4
+**CANESCHE, M.; CARVALHO, W.; REIS, L.; OLIVEIRA, M.; MAGALHAES, S.; JAMIESON, P.; NACIF, JOSÉ A. M.; FERREIRA, R. S.** You Only Traverse Twice: A YOTT Placement, Routing, and Timing Approach for CGRAs. *ACM Transactions on Embedded Computing Systems*, v. 20, p. 1, 2021. **A3**, ISSN 1539-9087 · Web Citation: 4|7 **Impact Factor 2.6**
 
 
 **CANESCHE, MICHAEL; MENEZES, MARCELO; CARVALHO, WESTERLEY; TORRES, FRANK; JAMIESON, PETER; NACIF, JOSE AUGUSTO; FERREIRA, RICARDO.** TRAVERSAL: A Fast and Adaptive Graph-based Placement and Routing for CGRAs. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, v. 1, p. 1-1, 2020. **A2**, ISSN 0278-0070 · Web Citation: 14|9
@@ -55,8 +53,10 @@
 
 **CREMONEZI, BRUNO; FILHO, AIRTON RIBEIRO GOMES; SILVA, EDELBERTO FRANCO; NACIF, JOSÉ AUGUSTO MIRANDA; VIEIRA, Alex Borges; NOGUEIRA, MICHELE.** Improving the attribute retrieval on ABAC using opportunistic caches for Fog-Based IoT Networks. *Computer Networks*, v. 213, p. 109000, 2022. **A1**, ISSN 1389-1286 · Web Citation: 5
 
-**CREMONEZI, B. M.; VIEIRA, A. B.; NOGUEIRA, M.; NACIF, J. A. M.** A dynamic channel allocation protocol for medical environment. *Annals of Telecommunications*, v. 1, p. 1, 2021. **A3**, ISSN 0003-4347 · Web Citation: 2|3
 
+**PACÍFICO, RACYUS D. G.; SILVA, LUCAS B.; COELHO, GERFERSON R.; SILVA, PABLO G.; VIEIRA, ALEX B.; VIEIRA, MARCOS A. M.; CUNHA, ÍTALO F. S.; VIEIRA, LUIZ F. M.; NACIF, JOSÉ A. M.** BloomTime: space-efficient stateful tracking of time-dependent network performance metrics. *Telecommunication Systems*, v. 1, p. 1, 2020. **A4**, ISSN 1018-4864 · Web Citation: 3|4
+
+**CREMONEZI, B. M.; VIEIRA, A. B.; NOGUEIRA, M.; NACIF, J. A. M.** A dynamic channel allocation protocol for medical environment. *Annals of Telecommunications*, v. 1, p. 1, 2021. **A3**, ISSN 0003-4347 · Web Citation: 2|3
 
 **CERQUEIRA, LUCAS S.; VIEIRA, ALEX B.; VIEIRA, LUIZ F. M.; VIEIRA, MARCOS A. M.; NACIF, JOSÉ A. M.** A cooperative protocol for pervasive underwater acoustic networks. *Wireless Networks (Online)*, v. 1, p. 1-23, 2021. **A2**, ISSN 1572-8196 · Web Citation: 5|7
 
