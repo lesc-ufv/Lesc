@@ -1,7 +1,7 @@
 # Lesc
 Laboratório de Engenharia de Sistemas da Computação LESC
 
-# Team
+# [Team](https://github.com/lesc-ufv/Lesc/blob/main/team.md)
 
 # Recent Publications
 
