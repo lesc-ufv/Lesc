@@ -2,9 +2,9 @@
 
 ## Professors
 
-**Jose A. M. Nacif** [Google Scholar]()
+**Jose A. M. Nacif** [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=GOqciGsAAAAJ)
 
-**Ricardo dos Santos Ferreira** [Google Scholar]()
+**Ricardo dos Santos Ferreira** [Google Scholar](https://scholar.google.com/citations?user=wjD-OY8AAAAJ&hl=en)
 
 ## Ongoing Phd Students
 
@@ -31,9 +31,20 @@
 
 ## External Collaborators
 
-**Universidad Zaragoza**: Maria  
+**[Universidad Zaragoza](https://gaz.i3a.es/team/)**: Adrián Alcolea Moreno, Darío Suarez Gracia, Javier Resano, María Villarroya Gaudó
+
+**Université Savoie Mont Blanc (USMB)** Pietro Maris Ferreira 
 
 **TU Munich**: [Rboert Wille](https://www.cda.cit.tum.de/team/wille/) and [Marcel Walter](https://marcelwa.github.io/)
+
+**Universidade Federal de Minas Gerais, Brazil**: [Omar Paranaiba](https://scholar.google.com/citations?user=0IqBxoIAAAAJ&hl=en), [Michele Nogueira](https://scholar.google.com/citations?user=1CfmgaAAAAAJ&hl=en), [Luiz Vieira](https://scholar.google.com/citations?user=KGysOTEAAAAJ&hl=en), [Marcos Vieira](https://scholar.google.com/citations?user=2pp8xosAAAAJ&hl=en)
+
+**Universidade Federal de Juiz de Fora, Brazil**: [Alex Vieira](https://scholar.google.com/citations?user=tjvh6lkAAAAJ&hl=en)
+
+**UBC, Canada**: Konrad Walus and Samuel SH Ng
+
+**Miami Unversity, Ohio, USA** [Peter Jamieson](https://scholar.google.com/citations?hl=en&user=EuHMpPMAAAAJ)
+
 
 ## Alumni 
 
