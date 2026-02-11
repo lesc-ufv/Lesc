@@ -1,0 +1,71 @@
+# Team
+
+## Professors
+
+**Jose A. M. Nacif** [Google Scholar]()
+
+**Ricardo dos Santos Ferreira** [Google Scholar]()
+
+## Ongoing Phd Students
+
+**Gabriel de Oliveira Machado** . Predição de eventos de inundação no Brasil utilizando inteligência artificial.
+
+**Olavo Alves Bastos SIlva** Machine Learning Accelerators
+
+
+## Ongoing Master Students
+
+**Luís Henrique Santos de Carvalho.** Identificação de Vulnerabildiades de Segurança em Contratos Inteligentes utilizando Large Language Models. 2024.
+
+**Eduardo Torres Tristão.** Multimodal Authentication. 2024.
+
+**Emanuel Vítor Carvalho Ruella.** Silicon Dangling Bonds Interconnection. 2024.
+
+**Jhonata Miranda da Costa.** Applied ML/DL. 2024.
+
+**Guilherme Aguiar Silva Milanez.** Dual Radio Communication. 2024.
+
+**Marcos Veníciu de Sá Barbalho.** Applied ML/DL. 2024.
+
+**Fábio Trindade Ramos.** Posicionamento e Roteamento de CGRAs utilizando GNNs. 2023.
+
+## External Collaborators
+
+**Universidad Zaragoza**: Maria  
+
+**TU Munich**: [Rboert Wille](https://www.cda.cit.tum.de/team/wille/) and [Marcel Walter](https://marcelwa.github.io/)
+
+## Alumni 
+
+### Phd Thesis
+
+**Jerônimo Costa Penha**  Aceleradores em Hardware Reconfigurável. 2025
+
+**Kristtopher Kayo Coelho.** Anonimização Baseada em k-anonimato para Garantir a Privacidade de Dados em Internet das Coisas Aplicada na Saúde. 2025.
+
+**Ronan Dutra Mendonça.** ArchChain: Proposta de um Token de Cessão para Avaliação de Custo e Desempenho em Redes Blockchain. 2025.
+
+**Lucas Bragança da Silva.** Geração Automática de Aceleradores de Domínio Específico em FPGA. 2024.
+
+**Racyus Delano Garcia Pacifico.** EBPFLOW: A HARDWARE/SOFTWARE PLATFORM TO SEAMLESSLY OFFLOAD NETWORK FUNCTIONS LEVERAGING EBPF. 2023.
+
+### Master Thesis
+
+**Josué Nunes Campos.** Impacto do Paradigma de Separação Proponente-Construtor em Ataques Sanduíche na Blockchain Ethereum. 2025.
+
+**Alysson Kelvim Caetano da Silva.** Análise de Implementações de Random Forests em FPGAs para Computação Embarcada. 2024.
+
+**Ruan Evangelista Formigoni.** Technology Mapping Aware Placement and Routing for Field-Coupled Nanotechnologies. 2023.
+
+**Westerley Carvalho Oliveira.** Mapeamento com Simulated Annealing em Arquiteturas Heterogeneas. 2023.
+
+**Adilson Rosa Lopes.** Seleção Precoce de Cruzamentos de Eucalipto Tolerantes à Seca e Produtivos utilizando Inteligência Artificial. 2023.
+
+**Marlon dos Santos Pereira Birindiba Garuzzo.** Análise dialélica e seleção genética de híbridos de Eucalyptus com potencial de tolerância à seca. 2022.
+
+**Danilo Damião de Almeida.** Explorando o Uso de Arquiteturas Heterogêneas CPU-FPGA na Depuração de Software e Hardware. 2020.
+
+**Michael Canesche.** Algoritmos de Posicionamento e Roteamento baseados em Travessia de Grafo para Arquiteturas Reconfiguráveis de Grão Grosso (CGRA). 2021.
+
+**Fernando Ferreira Passe.** Ferramentas de Ensino com Grafos de Fluxo de Dados em Três Níveis de Abstração. 2020.
+
