@@ -2,11 +2,11 @@
 
 ## Machine Learning and Artificial Intelligence and Computer Architecture
 
-**JUNIOR, WAGNER A.; RAMOS, FÁBIO; VIEIRA, ALEX B.; NACIF, JOSÉ AUGUSTO M.; FERREIRA, RICARDO S.** A Survey on Edge-Aware Graph Learning Methods. *IEEE Transactions on Network Science and Engineering*, v. 13, p. 5680-5697, 2026. **A1**, ISSN 2327-4697
+**JUNIOR, WAGNER A.; RAMOS, FÁBIO; VIEIRA, ALEX B.; NACIF, JOSÉ AUGUSTO M.; FERREIRA, RICARDO S.** A Survey on Edge-Aware Graph Learning Methods. *IEEE Transactions on Network Science and Engineering*, v. 13, p. 5680-5697, 2026. **A1**, ISSN 2327-4697 **Impact Factor 7.9**
 
-**DA SILVA, LUCAS BRAGANÇA; GRANDIS, CÉSAR; PENHA, JERONIMO; NACIF, JOSÉ AUGUSTO M.; FERREIRA, RICARDO S.** Reconfigurable Domain-Specific Architectures Based on Coarse-Grained Operators in High-Performance FPGAs. *Concurrency and Computation-Practice & Experience*, v. 37, p. 1, 2025. **A2**, ISSN 1532-0626
+**DA SILVA, LUCAS BRAGANÇA; GRANDIS, CÉSAR; PENHA, JERONIMO; NACIF, JOSÉ AUGUSTO M.; FERREIRA, RICARDO S.** Reconfigurable Domain-Specific Architectures Based on Coarse-Grained Operators in High-Performance FPGAs. *Concurrency and Computation-Practice & Experience*, v. 37, p. 1, 2025. **A2**, ISSN 1532-0626 **Impact Factor 1.5**
 
-**COELHO, KRISTTOPHER K.; OKUYAMA, MAURÍCIO M.; NOGUEIRA, MICHELE; VIEIRA, ALEX B.; SILVA, EDELBERTO F.; NACIF, JOSE AUGUSTO M.** A New k-anonymity Method Based on Generalization First k-member Clustering for Healthcare Data. *IEEE Transactions on Dependable and Secure Computing*, v. 1, p. 1-12, 2025. **A1**, ISSN 1941-0018
+**COELHO, KRISTTOPHER K.; OKUYAMA, MAURÍCIO M.; NOGUEIRA, MICHELE; VIEIRA, ALEX B.; SILVA, EDELBERTO F.; NACIF, JOSE AUGUSTO M.** A New k-anonymity Method Based on Generalization First k-member Clustering for Healthcare Data. *IEEE Transactions on Dependable and Secure Computing*, v. 1, p. 1-12, 2025. **A1**, ISSN 1941-0018 **Impact Factor 7.5**
 
 **ALMEIDA, WAGNER; RAMOS, FABIO; NACIF, JOSÉ AUGUSTO; FERREIRA, RICARDO; BORGES, ALEX.** Leveraging edge-aware graph neural networks to predict node load in backbone networks. *Journal of Complex Networks*, v. 13, p. 1, 2025. **A2**, ISSN 2051-1329
 
