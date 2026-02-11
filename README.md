@@ -8,15 +8,15 @@ The **LESC Lab** is a research laboratory dedicated to advancing **Computer Arch
 LESC’s mission is to design, develop, and evaluate **high-performance and energy-efficient computing systems**, bridging the gap between advanced hardware architectures and real-world applications. The lab focuses on creating scalable, secure, and domain-specific solutions capable of addressing the growing computational demands of artificial intelligence, machine learning, and large-scale data processing.
 
 
-# [Team](https://github.com/lesc-ufv/Lesc/blob/main/team.md)
+# [Team - click here](https://github.com/lesc-ufv/Lesc/blob/main/team.md)
 
 # Recent Publications
 
- ## [Journal Publications](https://github.com/lesc-ufv/Lesc/blob/main/publications.md)
+ ## [Journal Publications - click here](https://github.com/lesc-ufv/Lesc/blob/main/publications.md)
 
- ## [Conferences](https://github.com/lesc-ufv/Lesc/blob/main/conferences.md)
+ ## [Conferences - click here](https://github.com/lesc-ufv/Lesc/blob/main/conferences.md)
  
-# [Projects](https://github.com/lesc-ufv/Lesc/blob/main/projects.md)
+# [Projects - click here](https://github.com/lesc-ufv/Lesc/blob/main/projects.md)
 
 
 ## Core Research Areas
