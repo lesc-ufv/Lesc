@@ -1,3 +1,13 @@
+## Mapping High-Performance Accelerators in Domain-Specific Architectures
+
+**Description:**
+Artificial intelligence and machine learning algorithms have driven major advances in academia, with direct impact on industry, agriculture, and society. However, these applications require a computational workload that is growing exponentially compared to hardware advancements. Current processors are struggling to keep up with performance demands, even with the support of accelerators such as GPUs. Another important challenge is the high energy consumption of existing computer architectures when performing this type of processing.
+
+This project aims to develop new Domain-Specific Architectures (DSA) that provide high performance while prioritizing energy efficiency.
+
+**Status:** Ongoing
+**Type:** Research
+
 ## GT-SmartSeg – Working Group on Smart Contract Security  
 **Period:** 2024 – Present  
 **Status:** Ongoing  
@@ -10,16 +20,6 @@ This project aims to develop an automated framework for executing smart contract
 
 The main benefits include audit automation, reduced costs compared to traditional security audits, and broader access to verification tools. The system will be accessed through a web interface that manages containers configured to run multiple tools and can be adapted to different blockchain networks. The project will also provide documentation, demonstration videos, and performance reports.  
 
-
-## New Approaches and Technologies Applied to the Study, Management, and Conservation of Bees  
-**Period:** 2024 – Present  
-**Status:** Ongoing  
-**Type:** Research  
-
-**Description:**  
-- Conduct genomic studies and monitor the population dynamics of *Melipona capixaba* in genetically assisted breeding nuclei and in situ conservation populations.  
-- Detect and monitor the flowering of oil-producing plants used by *Epicharis* species using high-resolution drone image time series and deep learning techniques.  
-- Inventory populations of *Epicharis pygialis* through canopy monitoring and drone-assisted collection.  
 
 ## Analysis of Security Techniques and Tools for Smart Contracts in Blockchain Networks  
 **Period:** 2023 – 2024  
@@ -101,3 +101,14 @@ This project developed tools and techniques to enable efficient, scalable, and t
 The tools support dynamic model construction and runtime adjustment and can be integrated with widely used biological software such as Cytoscape. All developed tools were made publicly available to the research community.  
 
 **Funding:** National Council for Scientific and Technological Development (CNPq).
+
+
+## New Approaches and Technologies Applied to the Study, Management, and Conservation of Bees  
+**Period:** 2024 – Present  
+**Status:** Ongoing  
+**Type:** Research  
+
+**Description:**  
+- Conduct genomic studies and monitor the population dynamics of *Melipona capixaba* in genetically assisted breeding nuclei and in situ conservation populations.  
+- Detect and monitor the flowering of oil-producing plants used by *Epicharis* species using high-resolution drone image time series and deep learning techniques.  
+- Inventory populations of *Epicharis pygialis* through canopy monitoring and drone-assisted collection.  
