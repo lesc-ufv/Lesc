@@ -1,4 +1,4 @@
-# Journal Publications
+# Recent Journal Publications (2020 to 2026)
 
 ## Machine Learning and Artificial Intelligence and Computer Architecture
 
@@ -9,6 +9,14 @@
 **COELHO, KRISTTOPHER K.; OKUYAMA, MAURÍCIO M.; NOGUEIRA, MICHELE; VIEIRA, ALEX B.; SILVA, EDELBERTO F.; NACIF, JOSE AUGUSTO M.** A New k-anonymity Method Based on Generalization First k-member Clustering for Healthcare Data. *IEEE Transactions on Dependable and Secure Computing*, v. 1, p. 1-12, 2025. **A1**, ISSN 1941-0018
 
 **ALMEIDA, WAGNER; RAMOS, FABIO; NACIF, JOSÉ AUGUSTO; FERREIRA, RICARDO; BORGES, ALEX.** Leveraging edge-aware graph neural networks to predict node load in backbone networks. *Journal of Complex Networks*, v. 13, p. 1, 2025. **A2**, ISSN 2051-1329
+
+**FAGUNDES-JUNIOR, LEONARDO A. ; DE CARVALHO, KEVIN B. ; FERREIRA, RICARDO S. ; BRANDÃO, ALEXANDRE S.** . Machine Learning for Unmanned Aerial Vehicles Navigation: An Overview. SN Computer Science, v. 5, p. 1-15, 2024.ISSN 2661-8907  
+
+
+**LIMA, HELENA SANTIAGO ; OLIVEIRA, GUSTAVO FERREIRA VIEGAS DE ; FERREIRA, RICARDO DOS SANTOS ; CASTRO, ALEX GAZOLLA DE ; SILVA, LÍVIA CARNEIRO FIDÉLIS ; FERREIRA, LETÍCIA DE SOUZA ; OLIVEIRA, DIEGO ANICETO DOS SANTOS ; SILVA, LEONARDO FERREIRA DA ; KASUYA, MARIA CATARINA MEGUMI ; DE PAULA, SÉRGIO OLIVEIRA ; SILVA, CYNTHIA CANÊDO DA** . Machine learning-based soil quality assessment for enhancing environmental monitoring in iron ore mining-impacted ecosystems. JOURNAL OF ENVIRONMENTAL MANAGEMENT, v. 356, p. 120559, 2024. 
+ A1, ISSN 0301-4797
+
+**MARULANDA LOPEZ, JHON FABER ; DE BRITO NETO, WALTER BUENO ; DOS SANTOS FERREIRA, RICARDO**. Machine Learning Approach to Support Taxonomic Discrimination of Mayflies Species Based on Morphologic Data. NEOTROPICAL ENTOMOLOGY, v. 1, p. 1, 2024.
 
 **COELHO, KRISTTOPHER K.; TRISTÃO, EDUARDO T.; NOGUEIRA, MICHELE; VIEIRA, ALEX B.; NACIF, JOSÉ A.M.** Multimodal biometric authentication method by federated learning. *Biomedical Signal Processing and Control*, v. 85, p. 105022, 2023. **A1**, ISSN 1746-8094 · Web Citation: 27|35
 
@@ -97,5 +105,6 @@
 **FIGUEIREDO, GUILHERME A. R. DE; SOUZA, ERICK S. DE; RODRIGUES, JÚLIO H. F.; NACIF, JOSÉ A.; FERREIRA, RICARDO.** Desenvolvendo Ferramentas para Ensino de RISC-V com Python, Verilog, Matplotlib, SVG e ChatGPT. *International Journal of Computer Architecture Education*, v. 13, p. 43-52, 2024. **B1**, ISSN 2316-9915
 
 
+**FAGUNDES'JUNIOR, LEONARDO ; CANESCHE, MICHAEL ; FERREIRA, RICARDO ; BRANDÃO, ALEXANDRE** . High-performance graphics processing unit-based strategy for tuning a unmanned aerial vehicle controller subject to time-delay constraints. CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE, v. e7767, p. 1-22, 2023. 
 
 **MATHEUS, LUIZ; PIRES, LETÍCIA; VIEIRA, ALEX; VIEIRA, LUIZ F. M.; VIEIRA, MARCOS A. M.; NACIF, JOSÉ A.** The Internet of Light: Impact of Colors in LED-to-LED Visible Light Communication Systems. *Internet Technology Letters*, v. 2, p. e78, 2019. **B1**, ISSN 2476-1508 · Web Citation: 5|10
