@@ -4,22 +4,22 @@
 Artificial intelligence and machine learning algorithms have driven major advances in academia, with direct impact on industry, agriculture, and society. However, these applications require a computational workload that is growing exponentially compared to hardware advancements. Current processors are struggling to keep up with performance demands, even with the support of accelerators such as GPUs. Another important challenge is the high energy consumption of existing computer architectures when performing this type of processing.
 
 This project aims to develop new Domain-Specific Architectures (DSA) that provide high performance while prioritizing energy efficiency.
-**Start Date** 2022
-**End date**  2026
-**Reference** [Fapemig Universal](https://fapemig.br/oportunidades/chamadas-e-editais/chamada-fapemig-01-2022-demanda-universal-2580)
-**Funding Entity** [Fapemig, MG, Brazil](https://fapemig.br/a-fapemig)
-**Amount awarded** 11.170 EU
-**Main researcher** Prof. Ricardo Ferreira, UFV
-**Local** LESC, UFV
+* **Start Date** 2022
+* **End date**  2026
+* **Reference** [Fapemig Universal](https://fapemig.br/oportunidades/chamadas-e-editais/chamada-fapemig-01-2022-demanda-universal-2580)
+* **Funding Entity** [Fapemig, MG, Brazil](https://fapemig.br/a-fapemig)
+* **Amount awarded** 11.170 EU
+* **Main researcher** Prof. Ricardo Ferreira, UFV
+* **Local** LESC, UFV
 
 ## GT-SmartSeg – Working Group on Smart Contract Security  
-**Start Date** 2024
-**End date**  2025
-**Reference** [Projeto Iliada](https://www.rnp.br/projetos/iliada/#)
-**Funding Entity** RNP, Brazil (Rede Nacional de Pesquisa - National Research Network)
-**Amount awarded** ??
-**Main researcher** Prof. Jose Nacif, UFV
-**Local** LESC, UFV
+* **Start Date** 2024
+* **End date**  2025
+* **Reference** [Projeto Iliada](https://www.rnp.br/projetos/iliada/#)
+* **Funding Entity** RNP, Brazil (Rede Nacional de Pesquisa - National Research Network)
+* **Amount awarded** ??
+* **Main researcher** Prof. Jose Nacif, UFV
+* **Local** LESC, UFV
 
 **Description:**  
 Auditing the security of smart contracts is essential to prevent vulnerabilities in decentralized applications (DApps) deployed on networks such as Ethereum and Hyperledger Fabric. Although several tools exist to detect vulnerabilities, their adoption faces challenges such as discontinued or closed-source projects and the need to configure different execution environments.  
@@ -30,13 +30,13 @@ The main benefits include audit automation, reduced costs compared to traditiona
 
 
 ## Federated Multimodal Authentication Using Biometric Signals  
-**Start Date** 2023
-**End date**  ??
-**Reference** ??
-**Funding Entity** ??
-**Amount awarded** ??
-**Main researcher** Prof. Michele Nogueira, UFMG
-**Local** UFMG and LESC, UFV
+* **Start Date** 2023
+* **End date**  ??
+* **Reference** ??
+* **Funding Entity** ??
+* **Amount awarded** ??
+* **Main researcher** Prof. Michele Nogueira, UFMG
+* **Local** UFMG and LESC, UFV
 
 **Description:**  
 The Internet of Health Things (IoHT) requires security and privacy mechanisms for storing, transmitting, and processing personal data. Biometric authentication aims to provide protection in human-machine interactions.  
@@ -46,13 +46,13 @@ This project focuses on developing tools and methodologies for multimodal biomet
 The proposed solutions are designed to operate on resource-constrained devices typical of IoHT environments.  
 
 ## Training and Enhancement of Classical Machine Learning Models  
-**Start Date** 2022
-**End date**  2026
-**Reference** ??
-**Funding Entity**  ??
-**Amount awarded** ??
-**Main researcher** ?? Prof. Jose Nacif, UFV
-**Local** ??  and LESC, UFV
+* **Start Date** 2022
+* **End date**  2026
+* **Reference** ??
+* **Funding Entity**  ??
+* **Amount awarded** ??
+* **Main researcher** ?? Prof. Jose Nacif, UFV
+* **Local** ??  and LESC, UFV
 
 **Description:**  
 Funded by the Swiss startup CodeDepot, this project aims to reproduce and enhance classical, high-impact machine learning models described in the literature. The following techniques are explored:  
