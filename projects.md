@@ -10,15 +10,16 @@ This project aims to develop new Domain-Specific Architectures (DSA) that provid
 **Funding Entity** [Fapemig, MG, Brazil](https://fapemig.br/a-fapemig)
 **Amount awarded** 11.170 EU
 **Main researcher** Prof. Ricardo Ferreira, UFV
-
+**Local** LESC, UFV
 
 ## GT-SmartSeg – Working Group on Smart Contract Security  
 **Start Date** 2024
-**End date**  2026
+**End date**  2025
 **Reference** [Projeto Iliada](https://www.rnp.br/projetos/iliada/#)
 **Funding Entity** RNP, Brazil (Rede Nacional de Pesquisa - National Research Network)
-**Amount awarded**
+**Amount awarded** ??
 **Main researcher** Prof. Jose Nacif, UFV
+**Local** LESC, UFV
 
 **Description:**  
 Auditing the security of smart contracts is essential to prevent vulnerabilities in decentralized applications (DApps) deployed on networks such as Ethereum and Hyperledger Fabric. Although several tools exist to detect vulnerabilities, their adoption faces challenges such as discontinued or closed-source projects and the need to configure different execution environments.  
@@ -28,20 +29,14 @@ This project aims to develop an automated framework for executing smart contract
 The main benefits include audit automation, reduced costs compared to traditional security audits, and broader access to verification tools. The system will be accessed through a web interface that manages containers configured to run multiple tools and can be adapted to different blockchain networks. The project will also provide documentation, demonstration videos, and performance reports.  
 
 
-## Analysis of Security Techniques and Tools for Smart Contracts in Blockchain Networks  
-**Period:** 2023 – 2024  
-**Status:** Completed  
-**Type:** Research  
-
-**Description:**  
-The main objective was to analyze current tools and techniques to ensure smart contract security, verifying their correctness and compliance with business rules. The work included a systematic literature review addressing research questions on automated security tools, security enhancement techniques, and limitations of existing analysis tools.  
-
-The analysis revealed a predominance of static analysis techniques and highlighted research gaps such as subsequent contract calls and oracle manipulation. The study contributes to improving smart contract and blockchain ecosystem security.  
-
 ## Federated Multimodal Authentication Using Biometric Signals  
-**Period:** 2023 – Present  
-**Status:** Ongoing  
-**Type:** Research  
+**Start Date** 2023
+**End date**  ??
+**Reference** ??
+**Funding Entity** ??
+**Amount awarded** ??
+**Main researcher** Prof. Michele Nogueira, UFMG
+**Local** UFMG and LESC, UFV
 
 **Description:**  
 The Internet of Health Things (IoHT) requires security and privacy mechanisms for storing, transmitting, and processing personal data. Biometric authentication aims to provide protection in human-machine interactions.  
@@ -51,9 +46,13 @@ This project focuses on developing tools and methodologies for multimodal biomet
 The proposed solutions are designed to operate on resource-constrained devices typical of IoHT environments.  
 
 ## Training and Enhancement of Classical Machine Learning Models  
-**Period:** 2022 – Present  
-**Status:** Ongoing  
-**Type:** Research  
+**Start Date** 2022
+**End date**  2026
+**Reference** ??
+**Funding Entity**  ??
+**Amount awarded** ??
+**Main researcher** ?? Prof. Jose Nacif, UFV
+**Local** ??  and LESC, UFV
 
 **Description:**  
 Funded by the Swiss startup CodeDepot, this project aims to reproduce and enhance classical, high-impact machine learning models described in the literature. The following techniques are explored:  
@@ -94,28 +93,3 @@ Research lines include:
 2. Creation of the second version of a chlorophyll fluorescence IoT sensor and real-world validation.  
 3. Real data analysis and machine learning model training for digital agriculture applications, including drought tolerance prediction for forestry species.  
 
-
-## Using Heterogeneous Cloud Computing to Accelerate Gene Regulatory Network Simulations  
-**Period:** 2020 – 2022  
-**Status:** Completed  
-**Type:** Research  
-
-**Description:**  
-Gene Regulatory Networks (GRNs) are dynamic graph-based models widely used in bioinformatics, including studies of cell differentiation, metabolism, and disease evolution such as cancer. Simulating the full state space of a GRN with *n* nodes requires \(2^n\) steps, limiting studies to relatively small networks.  
-
-This project developed tools and techniques to enable efficient, scalable, and transparent high-performance GRN simulations using heterogeneous cloud computing with GPUs and FPGAs. Execution times were reduced by up to four orders of magnitude, enabling the exploration of larger networks.  
-
-The tools support dynamic model construction and runtime adjustment and can be integrated with widely used biological software such as Cytoscape. All developed tools were made publicly available to the research community.  
-
-**Funding:** National Council for Scientific and Technological Development (CNPq).
-
-
-## New Approaches and Technologies Applied to the Study, Management, and Conservation of Bees  
-**Period:** 2024 – Present  
-**Status:** Ongoing  
-**Type:** Research  
-
-**Description:**  
-- Conduct genomic studies and monitor the population dynamics of *Melipona capixaba* in genetically assisted breeding nuclei and in situ conservation populations.  
-- Detect and monitor the flowering of oil-producing plants used by *Epicharis* species using high-resolution drone image time series and deep learning techniques.  
-- Inventory populations of *Epicharis pygialis* through canopy monitoring and drone-assisted collection.  
