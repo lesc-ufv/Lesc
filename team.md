@@ -51,15 +51,15 @@
 ### Phd Thesis
 
 
-**Jerônimo Costa Penha**  Aceleradores em Hardware Reconfigurável. 2026 - **Advisor** Ricardo Ferreira
+**Jerônimo Costa Penha**  [Google Scholar](https://scholar.google.com/citations?user=OL67V8QAAAAJ&hl=pt-BR&oi=ao) Aceleradores em Hardware Reconfigurável. 2026 - **Advisor** Ricardo Ferreira
 
-**Wagner de Almeida Junior**. Beyond Node-Centric Graph Learning: Advancing Edge-Aware GNNs for
+**Wagner de Almeida Junior**.[Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=YyiiFb4AAAAJ) Beyond Node-Centric Graph Learning: Advancing Edge-Aware GNNs for
 Enhanced Representation Learning. 2026. **Advisor** Alex Borges, **Co-Advisor** Jose Nacif
-**Kristtopher Kayo Coelho.** Anonimização Baseada em k-anonimato para Garantir a Privacidade de Dados em Internet das Coisas Aplicada na Saúde. 2025.**Advisor** Jose Nacif
+**Kristtopher Kayo Coelho.** [Google Scholar](https://scholar.google.com/citations?user=OXGzKo4AAAAJ&hl=pt-BR) Anonimização Baseada em k-anonimato para Garantir a Privacidade de Dados em Internet das Coisas Aplicada na Saúde. 2025.**Advisor** Jose Nacif
 
-**Ronan Dutra Mendonça.** ArchChain: Proposta de um Token de Cessão para Avaliação de Custo e Desempenho em Redes Blockchain. 2025. **Advisor** Jose Nacif
+**Ronan Dutra Mendonça.** [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=N6TmTWEAAAAJ) ArchChain: Proposta de um Token de Cessão para Avaliação de Custo e Desempenho em Redes Blockchain. 2025. **Advisor** Jose Nacif
 
-**Lucas Bragança da Silva.** Geração Automática de Aceleradores de Domínio Específico em FPGA. 2024. **Advisor** Jose Nacif **Co-Advisor** Ricardo Ferreira
+**Lucas Bragança da Silva.** [Google Scholar](https://scholar.google.com/citations?user=0mJO78QAAAAJ&hl=pt-BR) Geração Automática de Aceleradores de Domínio Específico em FPGA. 2024. **Advisor** Jose Nacif **Co-Advisor** Ricardo Ferreira
 
 ### Master Thesis
 
