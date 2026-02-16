@@ -32,7 +32,7 @@ The main benefits include audit automation, reduced costs compared to traditiona
 ## Federated Multimodal Authentication Using Biometric Signals  
 * **Start Date** 2023
 * **End date**  2027
-* **Reference** [Fapemig Universal](https://fapemig.br/oportunidades/chamadas-e-editais/chamada-fapemig-01-2023-demanda-universal-2979)
+* **Reference**  APQ-02545-23  [Fapemig Universal](https://fapemig.br/oportunidades/chamadas-e-editais/chamada-fapemig-01-2023-demanda-universal-2979)
 * **Funding Entity** [Fapemig, MG, Brazil](https://fapemig.br/a-fapemig)
 * **Amount awarded** 14.500 EU
 * **Main researcher** Prof. José Augusto Nacif, UFV
@@ -64,7 +64,7 @@ Funded by the Swiss startup CodeDepot, this project aims to reproduce and enhanc
 ## AgroBigData: Intelligent Systems for Digital Agriculture  
 * **Start Date** 2021
 * **End date**  2025
-* **Reference** [Fapemig Universal](https://fapemig.br/oportunidades/chamadas-e-editais/chamada-fapemig-01-2021-demanda-universal-8921)
+* **Reference**  APQ-02062-21  [Fapemig Universal](https://fapemig.br/oportunidades/chamadas-e-editais/chamada-fapemig-01-2021-demanda-universal-8921)
 * **Funding Entity** [Fapemig, MG, Brazil](https://fapemig.br/a-fapemig)
 * **Amount awarded** 10.630 EU
 * **Main researcher** Prof. José Augusto Nacif, UFV
