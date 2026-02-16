@@ -1,5 +1,5 @@
-# Lesc
-Laboratory of Computer Systems Engineering (LESC)
+# LESC
+Computer Systems Engineering Laboratory (LESC)
 
 The **LESC Lab** is a research laboratory dedicated to advancing **Computer Architecture, Reconfigurable Hardware, and Embedded Systems**, with applications spanning diverse domains such as healthcare, agriculture, environmental monitoring, bioinformatics, computer networks, and emerging nanotechnologies.
 
