@@ -6,7 +6,7 @@ Artificial intelligence and machine learning algorithms have driven major advanc
 This project aims to develop new Domain-Specific Architectures (DSA) that provide high performance while prioritizing energy efficiency.
 * **Start Date** 2022
 * **End date**  2026
-* **Reference** [Fapemig Universal](https://fapemig.br/oportunidades/chamadas-e-editais/chamada-fapemig-01-2022-demanda-universal-2580) 
+* **Reference** APQ-01577-22 [Fapemig Universal](https://fapemig.br/oportunidades/chamadas-e-editais/chamada-fapemig-01-2022-demanda-universal-2580) 
 * **Funding Entity** [Fapemig, MG, Brazil](https://fapemig.br/a-fapemig)
 * **Amount awarded** 11.170 EU
 * **Main researcher** Prof. Ricardo Ferreira, UFV
