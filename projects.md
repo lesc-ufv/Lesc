@@ -17,8 +17,8 @@ This project aims to develop new Domain-Specific Architectures (DSA) that provid
 * **End date**  2025
 * **Reference** [Projeto Iliada](https://www.rnp.br/projetos/iliada/#)
 * **Funding Entity** RNP, Brazil (Rede Nacional de Pesquisa - National Research Network)
-* **Amount awarded** ??
-* **Main researcher** Prof. Jose Nacif, UFV
+* **Amount awarded** 17.800 EU
+* **Main researcher** Prof. Jose Augusto Nacif, UFV
 * **Local** LESC, UFV
 
 **Description:**  
@@ -31,11 +31,11 @@ The main benefits include audit automation, reduced costs compared to traditiona
 
 ## Federated Multimodal Authentication Using Biometric Signals  
 * **Start Date** 2023
-* **End date**  ??
+* **End date**  2027
 * **Reference** ??
-* **Funding Entity** ??
-* **Amount awarded** ??
-* **Main researcher** Prof. Michele Nogueira, UFMG
+* **Funding Entity** [Fapemig, MG, Brazil](https://fapemig.br/a-fapemig)
+* **Amount awarded** 14.500 EU
+* **Main researcher** Prof. José Augusto Nacif, UFV
 * **Local** UFMG and LESC, UFV
 
 **Description:**  
@@ -47,12 +47,11 @@ The proposed solutions are designed to operate on resource-constrained devices t
 
 ## Training and Enhancement of Classical Machine Learning Models  
 * **Start Date** 2022
-* **End date**  2026
-* **Reference** ??
-* **Funding Entity**  ??
-* **Amount awarded** ??
-* **Main researcher** ?? Prof. Jose Nacif, UFV
-* **Local** ??  and LESC, UFV
+* **End date**  2025
+* **Funding Entity**  CodeDepot, Switzerland
+* **Amount awarded** 23.500 EU
+* **Main researcher** Prof. Jose Augusto Nacif, UFV
+* **Local** CodeDepot and LESC, UFV
 
 **Description:**  
 Funded by the Swiss startup CodeDepot, this project aims to reproduce and enhance classical, high-impact machine learning models described in the literature. The following techniques are explored:  
