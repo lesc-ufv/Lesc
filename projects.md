@@ -61,6 +61,25 @@ Funded by the Swiss startup CodeDepot, this project aims to reproduce and enhanc
 - Transfer learning: methods to transfer knowledge from pre-trained models to classical ML models trained on smaller datasets.  
 - Model combination: ensemble techniques for combining multiple models.  
 
+## AgroBigData: Intelligent Systems for Digital Agriculture  
+* **Start Date** 2021
+* **End date**  2025
+* **Reference** [Fapemig Universal](https://fapemig.br/oportunidades/chamadas-e-editais/chamada-fapemig-01-2021-demanda-universal-8921)
+* **Funding Entity** [Fapemig, MG, Brazil](https://fapemig.br/a-fapemig)
+* **Amount awarded** 10.630 EU
+* **Main researcher** Prof. José Augusto Nacif, UFV
+* **Local** LESC, UFV
+
+**Description:**  
+The global IoT market for digital agriculture is projected to reach USD 34.9 billion by 2027. IoT devices are increasingly used to improve productivity and efficiency by collecting real-time data during crop development.  
+
+This interdisciplinary project integrates IoT and machine learning to advance the state of the art and generate new technologies for digital agriculture. It covers the full pipeline from IoT protocols and high-performance processing to real-world data collection and field validation.  
+
+Research lines include:  
+1. Development of communication protocols and IoT devices.  
+2. Creation of the second version of a chlorophyll fluorescence IoT sensor and real-world validation.  
+3. Real data analysis and machine learning model training for digital agriculture applications, including drought tolerance prediction for forestry species.  
+
 ## Applications of Artificial Intelligence and Computer Vision in the Agricultural Sector  
 **Period:** 2021 – 2023  
 **Status:** Completed  
@@ -76,19 +95,4 @@ Research lines included:
 2. Predicting carcass yield in cattle and sheep.  
 3. Identifying drought-tolerant clones based on eucalyptus leaf morphology.  
 4. Classifying botanical origin through pollen type identification in honey and bee pollen.  
-
-## AgroBigData: Intelligent Systems for Digital Agriculture  
-**Period:** 2021 – Present  
-**Status:** Ongoing  
-**Type:** Research  
-
-**Description:**  
-The global IoT market for digital agriculture is projected to reach USD 34.9 billion by 2027. IoT devices are increasingly used to improve productivity and efficiency by collecting real-time data during crop development.  
-
-This interdisciplinary project integrates IoT and machine learning to advance the state of the art and generate new technologies for digital agriculture. It covers the full pipeline from IoT protocols and high-performance processing to real-world data collection and field validation.  
-
-Research lines include:  
-1. Development of communication protocols and IoT devices.  
-2. Creation of the second version of a chlorophyll fluorescence IoT sensor and real-world validation.  
-3. Real data analysis and machine learning model training for digital agriculture applications, including drought tolerance prediction for forestry species.  
 
