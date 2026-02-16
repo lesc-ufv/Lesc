@@ -32,7 +32,7 @@ The main benefits include audit automation, reduced costs compared to traditiona
 ## Federated Multimodal Authentication Using Biometric Signals  
 * **Start Date** 2023
 * **End date**  2027
-* **Reference** * **Reference** [Fapemig Universal](https://fapemig.br/oportunidades/chamadas-e-editais/chamada-fapemig-01-2023-demanda-universal-2979)
+* **Reference** [Fapemig Universal](https://fapemig.br/oportunidades/chamadas-e-editais/chamada-fapemig-01-2023-demanda-universal-2979)
 * **Funding Entity** [Fapemig, MG, Brazil](https://fapemig.br/a-fapemig)
 * **Amount awarded** 14.500 EU
 * **Main researcher** Prof. José Augusto Nacif, UFV
