@@ -50,15 +50,16 @@
 
 ### Phd Thesis
 
-**Jerônimo Costa Penha**  Aceleradores em Hardware Reconfigurável. 2025
 
-**Kristtopher Kayo Coelho.** Anonimização Baseada em k-anonimato para Garantir a Privacidade de Dados em Internet das Coisas Aplicada na Saúde. 2025.
+**Jerônimo Costa Penha**  Aceleradores em Hardware Reconfigurável. 2026 - **Advisor** Ricardo Ferreira
 
-**Ronan Dutra Mendonça.** ArchChain: Proposta de um Token de Cessão para Avaliação de Custo e Desempenho em Redes Blockchain. 2025.
+**Wagner de Almeida Junior**. Beyond Node-Centric Graph Learning: Advancing Edge-Aware GNNs for
+Enhanced Representation Learning. 2026. **Advisor** Alex Borges, **Co-Advisor** Jose Nacif
+**Kristtopher Kayo Coelho.** Anonimização Baseada em k-anonimato para Garantir a Privacidade de Dados em Internet das Coisas Aplicada na Saúde. 2025.**Advisor** Jose Nacif
 
-**Lucas Bragança da Silva.** Geração Automática de Aceleradores de Domínio Específico em FPGA. 2024.
+**Ronan Dutra Mendonça.** ArchChain: Proposta de um Token de Cessão para Avaliação de Custo e Desempenho em Redes Blockchain. 2025. **Advisor** Jose Nacif
 
-**Racyus Delano Garcia Pacifico.** EBPFLOW: A HARDWARE/SOFTWARE PLATFORM TO SEAMLESSLY OFFLOAD NETWORK FUNCTIONS LEVERAGING EBPF. 2023.
+**Lucas Bragança da Silva.** Geração Automática de Aceleradores de Domínio Específico em FPGA. 2024. **Advisor** Jose Nacif **Co-Advisor** Ricardo Ferreira
 
 ### Master Thesis
 
