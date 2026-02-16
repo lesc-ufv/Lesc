@@ -15,7 +15,7 @@ This project aims to develop new Domain-Specific Architectures (DSA) that provid
 ## GT-SmartSeg – Working Group on Smart Contract Security  
 * **Start Date** 2024
 * **End date**  2025
-* **Reference** [Projeto Iliada](https://www.rnp.br/projetos/iliada/#)
+* **Reference**  Ili 07-2024  [Projeto Iliada](https://www.rnp.br/projetos/iliada/#) - [Approved](https://plataforma.rnp.br/arquivos/documents/Edital_ILIADA__Resultado_final_GTs_selecionados.pdf?VersionId=YTWwbxP3M0p7FoVD6JC9CWmBtlV1WpxN&_gl=1*13zzkps*_ga*MjY0MTU1NjY5LjE3NjM0MDc1MzA.*_ga_GH3SZVB2M7*czE3NzEyNzQxMTkkbzIkZzEkdDE3NzEyNzQyNTYkajYwJGwwJGgw*_ga_K5RDDTFKEG*czE3NzEyNzQxMTkkbzIkZzEkdDE3NzEyNzQyNTYkajYwJGwwJGgw*_ga_3YTT1H9LXS*czE3NzEyNzQxMTkkbzIkZzEkdDE3NzEyNzQyNTYkajYwJGwwJGgw)
 * **Funding Entity** RNP, Brazil (Rede Nacional de Pesquisa - National Research Network)
 * **Amount awarded** 17.800 EU
 * **Main researcher** Prof. Jose Augusto Nacif, UFV
@@ -48,7 +48,7 @@ The proposed solutions are designed to operate on resource-constrained devices t
 ## Training and Enhancement of Classical Machine Learning Models  
 * **Start Date** 2022
 * **End date**  2025
-* **Funding Entity**  CodeDepot, Switzerland
+* **Funding Entity**  23114.905695/2023-31  CodeDepot, Switzerland
 * **Amount awarded** 23.500 EU
 * **Main researcher** Prof. Jose Augusto Nacif, UFV
 * **Local** CodeDepot and LESC, UFV
